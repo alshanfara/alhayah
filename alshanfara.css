@@ -29,8 +29,7 @@ a.label.label-primary.fl img.fl,button.btn.fr.btn-success.fa.fa-refresh,div#l2 b
 .des2{background-color:#fff;border-radius:0;padding:2px 10px;margin:3px 8px!important}
 #des3{text-decoration:dotted;color:#fff;margin-left:2px!important;display:inline-block;margin-right:4.4px!important}
 #des4{color:#f9f9f9!important;font-size:13px!important}
-.fr.borderg,.fr.borderg a{background-image:linear-gradient( 
-90deg,#34637e 0,#87b5cf 10%,#34637e 51%,#87b5cf 89%,#34637e 100%);padding:0 5px!important;font-size:10px!important;position:relative;color:#ffffff}
+.fr.borderg,.fr.borderg a{background-image:linear-gradient( 90deg,#34637e 0,#87b5cf 10%,#34637e 51%,#87b5cf 89%,#34637e 100%);padding:0 5px!important;font-size:10px!important;position:relative;color:#ffffff}
 .fr.co,div#tlogins img.fr.co{border-radius:3px!important;height:10px}
 .checkbox{margin-top:3px!important;margin-left:-1px!important;position:fixed;float:right}
 .fa.fa-user-secret{color:#b40666;margin-top:4px!important}
@@ -44,7 +43,7 @@ div#tlogins::-webkit-scrollbar-track:hover{background:0 0}
 div#tlogins::-webkit-scrollbar-track:active{background:0 0}
 div#tlogins::-webkit-scrollbar-corner{background:0 0}
 div#tlogins .fl.mini.u-msg{margin-top:3px!important;border-radius:3px!important}
-label.fl.label.loginstat{float:left!important;border-radius:0 7px 7px 0!important;position:absolute;top:1px;left:0;padding:3px 6px 2px 8px!important;margin-top:6px!important;font-size:14px!important;border-radius:0 15px 0 15px!important;-webkit-transform:matrix(1,0,0,1,0,107)!important;color:#ffffff;border:1px solid #fff;background-image:linear-gradient( 90deg,#34637e 0,#87b5cf 10%,#34637e 51%,#87b5cf 89%,#34637e 100%);width:13%!important}
+label.fl.label.loginstat{float:left!important;border-radius:0 7px 7px 0!important;position:absolute;top:1px;left:0;padding:3px 6px 2px 8px!important;margin-top:6px!important;font-size:14px!important;border-radius:0 15px 0 15px!important;-webkit-transform:matrix(1,0,0,1,0,25)!important;color:#ffffff;border:1px solid #fff;background-image:linear-gradient( 90deg,#34637e 0,#87b5cf 10%,#34637e 51%,#87b5cf 89%,#34637e 100%);width:13%!important}
 ul.nav.nav-tabs>li>a{color:#fff;border:none;text-align:center;background-image:linear-gradient( 90deg,#34637e 0,#87b5cf 10%,#34637e 51%,#87b5cf 89%,#34637e 100%);border-radius:3px;display:initial;width:80%;float:left;padding:0!important}
 ul.nav.nav-tabs>li.active>a{color:#fff;background-image:linear-gradient( 90deg,#34637e 0,#87b5cf 10%,#34637e 51%,#87b5cf 89%,#34637e 100%);border:none;border-radius:3px}
 ul.nav.nav-tabs>li{width:32%;margin:0 5px 0 0}
@@ -53,4 +52,5 @@ ul.nav.nav-tabs>li>.fa-user-plus:before,ul.nav.nav-tabs>li>.fa-user:before,ul.na
 ul.nav.nav-tabs{margin-top:-4px;float:right;width:100%;padding:1px 1px}
 div#tlogins .hand.nosel.fl.uzr.border{background-image:linear-gradient(90deg,#d0d0d0 0,#d0d0d0a1 10%,#d0d0d05c 51%,#f8f8f8 89%,#f8f8f8 100%);width:99%!important;margin-top:2px!important;border:1px!important}
 div#tlogins .hand.nosel.fl.uzr.border{box-shadow:inset 1px 1px 1px 0 #ffffff,0 0 2px #ffffff00}
+.fr.primaryborder.btn.btn-default{background-image:linear-gradient( 90deg,#34637e 0,#87b5cf 10%,#34637e 51%,#87b5cf 89%,#34637e 100%)!important;color:#fff!important}
 #des0{border-radius:15px;height:19px;font-size:14px!important;color:#fff;padding:0 0!important}
